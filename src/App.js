@@ -1,10 +1,10 @@
 import React from "react";
-import Scene from "./components/WebGL/scene";
+import SceneTest from "./components/WebGL/sceneTest";
 
 function App() {
   return (
     <React.Fragment>
-      <Scene />
+      <SceneTest />
     </React.Fragment>
   );
 }
